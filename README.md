@@ -7,12 +7,13 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 
 ### ✅ Evidence
 - Completed career development quizzes
+- ![image](https://github.com/user-attachments/assets/60daa6d7-440e-41af-b567-604e5bb7cd3c)
 - Developed a SMART goal for becoming a software engineer
 
 ### ✍️ Reflection (STAR Technique)
 **S**: I needed to plan my career pathway.  
 **T**: I aimed to identify a clear goal and path forward.  
-**A**: I completed career quizzes and wrote a SMART goal: "To become a junior web developer within the next 18 months."  
+**A**: I completed career quizzes and wrote a SMART goal: "To become a seasoned software engineer."  
 **R**: I gained clarity and now feel more confident in navigating my career journey.
 
 ---
