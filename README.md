@@ -6,8 +6,7 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 ## 🧭 1. Career Counselling
 
 ### ✅ Evidence
-- Completed career development quizzes
-- ![image](https://github.com/user-attachments/assets/60daa6d7-440e-41af-b567-604e5bb7cd3c)
+- Completed career development quizzes ![image](https://github.com/user-attachments/assets/60daa6d7-440e-41af-b567-604e5bb7cd3c)
 - Developed a SMART goal for becoming a software engineer
 
 ### ✍️ Reflection (STAR Technique)
@@ -27,7 +26,7 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 ### ✍️ Reflection (STAR Technique)
 **S**: I was unsure which career aligned with my strengths.  
 **T**: I needed to match my skills and interests to a job.  
-**A**: I completed the personality and skills self-assessments.  
+**A**: I completed the personality and skills self-assessments. ![image](https://github.com/user-attachments/assets/97cbc9aa-f11b-461b-ab79-56f89c0bba65)
 **R**: I discovered that I’m best suited for people-focused, leadership-driven roles like project management.
 
 ---
@@ -35,7 +34,7 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 ## 🧬 3. Personality Assessment
 
 ### ✅ Evidence
-- Completed vocational interest survey
+- Completed vocational interest survey ![image](https://github.com/user-attachments/assets/f7534021-d462-4f65-8249-fc589721bfec)
 - Identified my personality fit: Artistic, Social, Enterprising
 
 ### ✍️ Reflection (STAR Technique)
@@ -61,13 +60,13 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 **T**: I created a CV that markets my skills effectively.  
 **A**: I followed the formatting and structure guidelines from the module.  
 **R**: My CV is now professional, polished, and ready to share with employers.
+[Aviwe Gift Ndalana.pdf](https://github.com/user-attachments/files/20389670/Aviwe.Gift.Ndalana.pdf)
 
----
 
 ## 📬 5. CV Submission
 
 ### ✅ Evidence
-- Submitted final CV through the designated platform (email/portal/instructor)
+- Submitted final CV via Blackboard ![image](https://github.com/user-attachments/assets/c45e8570-c343-4cf4-a787-983d37b7cbf6)
 
 ### ✍️ Reflection (STAR Technique)
 **S**: I wanted feedback on my professional readiness.  
