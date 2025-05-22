@@ -7,7 +7,7 @@ Welcome to my digital portfolio! This collection of evidence and reflections dem
 
 ### ✅ Evidence
 - Completed career development quizzes
-- Developed a SMART goal for becoming a [insert career goal]
+- Developed a SMART goal for becoming a software engineer
 
 ### ✍️ Reflection (STAR Technique)
 **S**: I needed to plan my career pathway.  
